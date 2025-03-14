@@ -1,0 +1,34 @@
+{
+    "name": "Vunex-AI",
+    "theme": {
+        "primary": "#4B9EF4"
+    },
+    "header": {
+        "showGitHubCard": false,
+        "showName": false
+    },
+    "sidebar": {
+        "pages": [
+            {
+                "title": "Common",
+                "href": "/common"
+            },
+            {
+                "title": "AI Live view",
+                "href": "/ai-live-view"
+            },
+            {
+                "title": "Video archives",
+                "href": "/video-archives"
+            },
+            {
+                "title": "Search",
+                "href": "/search"
+            },
+            {
+                "title": "Etc.",
+                "href": "/etc"
+            }
+        ]
+    }
+}
