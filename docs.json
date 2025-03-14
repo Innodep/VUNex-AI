@@ -8,6 +8,7 @@
         "showName": false
     },
     "sidebar": {
+        "group": "Features",
         "pages": [
             {
                 "title": "Common",
