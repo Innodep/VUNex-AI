@@ -5,31 +5,33 @@
     },
     "header": {
         "showGitHubCard": false,
-        "showName": false
+        "showName": true
     },
-    "sidebar": {
-        "group": "Features",
-        "pages": [
-            {
-                "title": "Common",
-                "href": "/common"
-            },
-            {
-                "title": "AI Live view",
-                "href": "/ai-live-view"
-            },
-            {
-                "title": "Video archives",
-                "href": "/video-archives"
-            },
-            {
-                "title": "Search",
-                "href": "/search"
-            },
-            {
-                "title": "Etc.",
-                "href": "/etc"
-            }
-        ]
-    }
+    "sidebar": [
+        {
+            "group": "Features",
+            "pages": [
+                {
+                    "title": "Common",
+                    "href": "/common"
+                },
+                {
+                    "title": "AI Live view",
+                    "href": "/ai-live-view"
+                },
+                {
+                    "title": "Video archives",
+                    "href": "/video-archives"
+                },
+                {
+                    "title": "Search",
+                    "href": "/search"
+                },
+                {
+                    "title": "Etc.",
+                    "href": "/etc"
+                }
+            ]
+        }
+    ]
 }
