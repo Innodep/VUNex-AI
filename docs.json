@@ -14,7 +14,7 @@
                 "pages": [
                     {
                         "title": "Getting Started",
-                        "href": "/getting-started",
+                        "href": "/index",
                         "icon": "circle-info"
                     }
                 ]
