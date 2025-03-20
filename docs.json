@@ -8,7 +8,7 @@
         "showName": true
     },
     "sidebar": [
-        "default": [
+        [
             {
                 "group": "Getting Started",
                 "pages": [
@@ -23,16 +23,16 @@
                 "group": "How-to-use",
                 "pages": [
                     {
-                    "title": "AI Live view",
-                    "href": "/ai-live-view"
-                },
-                {
-                    "title": "Video archives",
-                    "href": "/video-archives"
-                },
-                {
-                    "title": "Search",
-                    "href": "/search"
+                        "title": "AI Live view",
+                        "href": "/ai-live-view"
+                    },
+                    {
+                        "title": "Video archives",
+                        "href": "/video-archives"
+                    },
+                    {
+                        "title": "Search",
+                        "href": "/search"
                     }
                 ]
             },
@@ -42,11 +42,9 @@
                     {
                         "title": "Etc.",
                         "href": "/etc"
-                   
-                }
-            ]
+                    }
+                ]
             }
-        
-    ]
+        ]
     ]
 }
