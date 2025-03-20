@@ -1,19 +1,28 @@
 {
-    "name": "Vunex-AI",
+    "name": "Vunex-AI Docs",
     "theme": {
         "primary": "#4B9EF4"
     },
     "header": {
         "showGitHubCard": false,
-        "showName": true
+        "showName": false
     },
     "sidebar": [
-        {
-            "group": "Features",
-            "pages": [
-              
-                },
-                {
+        "default": [
+            {
+                "group": "Getting Started",
+                "pages": [
+                    {
+                        "title": "Getting Started",
+                        "href": "/",
+                        "icon": "circle-info"
+                    }
+                ]
+            },
+            {
+                "group": "How-to-use",
+                "pages": [
+                    {
                     "title": "AI Live view",
                     "href": "/ai-live-view"
                 },
@@ -24,10 +33,16 @@
                 {
                     "title": "Search",
                     "href": "/search"
-                },
-                {
-                    "title": "Etc.",
-                    "href": "/etc"
+                    }
+                ]
+            },
+            {
+                "group": "Misc.",
+                "pages": [
+                    {
+                        "title": "Etc.",
+                        "href": "/etc"
+                   
                 }
             ]
         }
