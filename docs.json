@@ -5,7 +5,7 @@
     },
     "header": {
         "showGitHubCard": false,
-        "showName": false
+        "showName": true
     },
     "sidebar": [
         "default": [
