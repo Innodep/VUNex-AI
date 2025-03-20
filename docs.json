@@ -8,43 +8,41 @@
         "showName": true
     },
     "sidebar": [
-        [
-            {
-                "group": "Getting Started",
-                "pages": [
-                    {
-                        "title": "Getting Started",
-                        "href": "/index",
-                        "icon": "circle-info"
-                    }
-                ]
-            },
-            {
-                "group": "How-to-use",
-                "pages": [
-                    {
-                        "title": "AI Live view",
-                        "href": "/ai-live-view"
-                    },
-                    {
-                        "title": "Video archives",
-                        "href": "/video-archives"
-                    },
-                    {
-                        "title": "Search",
-                        "href": "/search"
-                    }
-                ]
-            },
-            {
-                "group": "Misc.",
-                "pages": [
-                    {
-                        "title": "Etc.",
-                        "href": "/etc"
-                    }
-                ]
-            }
-        ]
+        {
+            "group": "Getting Started",
+            "pages": [
+                {
+                    "title": "Getting Started",
+                    "href": "/index",
+                    "icon": "circle-info"
+                }
+            ]
+        },
+        {
+            "group": "How-to-use",
+            "pages": [
+                {
+                    "title": "AI Live view",
+                    "href": "/ai-live-view"
+                },
+                {
+                    "title": "Video archives",
+                    "href": "/video-archives"
+                },
+                {
+                    "title": "Search",
+                    "href": "/search"
+                }
+            ]
+        },
+        {
+            "group": "Misc.",
+            "pages": [
+                {
+                    "title": "Etc.",
+                    "href": "/etc"
+                }
+            ]
+        }
     ]
 }
