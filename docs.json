@@ -22,6 +22,10 @@
             "group": "How-to-use",
             "pages": [
                 {
+                    "title": "Common",
+                    "href": "/common"            
+                }
+                {
                     "title": "AI Live view",
                     "href": "/ai-live-view"
                 },
